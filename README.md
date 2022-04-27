@@ -1,6 +1,6 @@
 # Optimization Problem
 
-Included in this data set are multiple folders with different sets of knapsack data. The files look as such:
+Included in this data set are multiple files with different sets of knapsack data. The files look as such:
 
 | line number | elem[0] | elem[1] |
 | --- | --- | --- |
@@ -11,7 +11,7 @@ Included in this data set are multiple folders with different sets of knapsack d
 | ... | ... | ... |
 | x | value of item x | weight of item x |
   
-Your response output should include:
+Your response output should include (for each file):
 - total value of knapsack
 - time to run solution
 - indexes of items selected
